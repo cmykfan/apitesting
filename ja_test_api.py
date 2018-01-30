@@ -9,3 +9,14 @@
     "name": "typicode"
   }
 }
+{
+  "posts": [
+    {
+      "id": 2,
+      "title": "world"
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+}
